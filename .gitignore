@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# Input/Output files that change often
+links_found.txt
+urls_to_parse.txt
